@@ -18,3 +18,5 @@
     } else {
         pluginResult = [CDVPluginResult resultWithStatus:CDVCommandStatus_ERROR];
  }
+}
+@end
